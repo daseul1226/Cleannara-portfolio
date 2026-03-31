@@ -1,0 +1,67 @@
+{
+  "source": "placeholder",
+  "generatedAt": null,
+  "dateRange": {
+    "startDate": null,
+    "endDate": null,
+    "timeUnit": "month"
+  },
+  "brands": ["깨끗한나라", "크리넥스", "커클랜드", "잘풀리는집"],
+  "categories": [
+    {
+      "id": "toilet-tissue",
+      "name": "화장지",
+      "seasonNote": "사계절 수요가 높고 환절기·연말 수요가 강한 카테고리",
+      "products": [
+        { "brand": "깨끗한나라", "score": 0, "last3Avg": 0, "prev3Avg": 0, "momentum": 0, "keywords": ["깨끗한나라 화장지"] },
+        { "brand": "크리넥스", "score": 0, "last3Avg": 0, "prev3Avg": 0, "momentum": 0, "keywords": ["크리넥스 화장지"] },
+        { "brand": "커클랜드", "score": 0, "last3Avg": 0, "prev3Avg": 0, "momentum": 0, "keywords": ["커클랜드 화장지"] },
+        { "brand": "잘풀리는집", "score": 0, "last3Avg": 0, "prev3Avg": 0, "momentum": 0, "keywords": ["잘풀리는집 화장지"] }
+      ],
+      "leader": "연동 필요"
+    },
+    {
+      "id": "wet-wipes",
+      "name": "물티슈",
+      "seasonNote": "여름철·야외활동 시즌에 수요가 높아지는 카테고리",
+      "products": [
+        { "brand": "깨끗한나라", "score": 0, "last3Avg": 0, "prev3Avg": 0, "momentum": 0, "keywords": ["깨끗한나라 물티슈"] },
+        { "brand": "크리넥스", "score": 0, "last3Avg": 0, "prev3Avg": 0, "momentum": 0, "keywords": ["크리넥스 물티슈"] },
+        { "brand": "커클랜드", "score": 0, "last3Avg": 0, "prev3Avg": 0, "momentum": 0, "keywords": ["커클랜드 물티슈"] },
+        { "brand": "잘풀리는집", "score": 0, "last3Avg": 0, "prev3Avg": 0, "momentum": 0, "keywords": ["잘풀리는집 물티슈"] }
+      ],
+      "leader": "연동 필요"
+    },
+    {
+      "id": "kitchen-towel",
+      "name": "키친타월",
+      "seasonNote": "명절·집밥·청소 이슈와 함께 관심이 높아지는 카테고리",
+      "products": [
+        { "brand": "깨끗한나라", "score": 0, "last3Avg": 0, "prev3Avg": 0, "momentum": 0, "keywords": ["깨끗한나라 키친타월"] },
+        { "brand": "크리넥스", "score": 0, "last3Avg": 0, "prev3Avg": 0, "momentum": 0, "keywords": ["크리넥스 키친타월"] },
+        { "brand": "커클랜드", "score": 0, "last3Avg": 0, "prev3Avg": 0, "momentum": 0, "keywords": ["커클랜드 키친타월"] },
+        { "brand": "잘풀리는집", "score": 0, "last3Avg": 0, "prev3Avg": 0, "momentum": 0, "keywords": ["잘풀리는집 키친타월"] }
+      ],
+      "leader": "연동 필요"
+    },
+    {
+      "id": "facial-tissue",
+      "name": "미용티슈",
+      "seasonNote": "환절기·감기 시즌과 함께 수요가 커지는 카테고리",
+      "products": [
+        { "brand": "깨끗한나라", "score": 0, "last3Avg": 0, "prev3Avg": 0, "momentum": 0, "keywords": ["깨끗한나라 미용티슈"] },
+        { "brand": "크리넥스", "score": 0, "last3Avg": 0, "prev3Avg": 0, "momentum": 0, "keywords": ["크리넥스 미용티슈"] },
+        { "brand": "커클랜드", "score": 0, "last3Avg": 0, "prev3Avg": 0, "momentum": 0, "keywords": ["커클랜드 미용티슈"] },
+        { "brand": "잘풀리는집", "score": 0, "last3Avg": 0, "prev3Avg": 0, "momentum": 0, "keywords": ["잘풀리는집 미용티슈"] }
+      ],
+      "leader": "연동 필요"
+    }
+  ],
+  "recommendation": {
+    "priorityCategory": "연동 필요",
+    "priorityBrand": "연동 필요",
+    "priorityMessage": "GitHub Actions에 NAVER_CLIENT_ID와 NAVER_CLIENT_SECRET을 등록하면 브랜드+카테고리 비교 데이터가 반영됩니다.",
+    "regionalMessage": "지역 추천은 내부 판매 데이터와 결합 시 확장됩니다.",
+    "promoMessage": "브랜드별 검색 모멘텀과 시즌성을 기반으로 판촉 우선순위를 제안하도록 설계했습니다."
+  }
+}
