@@ -1,9 +1,9 @@
 {
   "source": "naver-datalab",
-  "generatedAt": "2026-05-01T22:56:44Z",
+  "generatedAt": "2026-05-02T22:53:48Z",
   "dateRange": {
-    "startDate": "2025-05-01",
-    "endDate": "2026-05-01",
+    "startDate": "2025-05-02",
+    "endDate": "2026-05-02",
     "timeUnit": "month"
   },
   "brands": [
@@ -26,10 +26,10 @@
             "크리넥스 휴지",
             "크리넥스 두루마리휴지"
           ],
-          "last3Avg": 81.6,
-          "prev3Avg": 76.43,
-          "momentum": 6.76,
-          "score": 50.65
+          "last3Avg": 58.72,
+          "prev3Avg": 77.89,
+          "momentum": -24.61,
+          "score": 35.23
         },
         {
           "brand": "커클랜드",
@@ -39,10 +39,10 @@
             "코스트코 화장지",
             "커클랜드 두루마리휴지"
           ],
-          "last3Avg": 52.97,
-          "prev3Avg": 44.71,
-          "momentum": 18.47,
-          "score": 36.4
+          "last3Avg": 39.85,
+          "prev3Avg": 44.14,
+          "momentum": -9.72,
+          "score": 23.91
         },
         {
           "brand": "깨끗한나라",
@@ -51,10 +51,10 @@
             "깨끗한나라 휴지",
             "깨끗한나라 두루마리휴지"
           ],
-          "last3Avg": 41.15,
-          "prev3Avg": 31.03,
-          "momentum": 32.61,
-          "score": 32.84
+          "last3Avg": 30.31,
+          "prev3Avg": 33.25,
+          "momentum": -8.84,
+          "score": 18.19
         },
         {
           "brand": "잘풀리는집",
@@ -63,10 +63,10 @@
             "잘풀리는집 휴지",
             "잘풀리는집 두루마리휴지"
           ],
-          "last3Avg": 5.79,
-          "prev3Avg": 5.19,
-          "momentum": 11.56,
-          "score": 6.36
+          "last3Avg": 4.03,
+          "prev3Avg": 5.59,
+          "momentum": -27.91,
+          "score": 2.42
         }
       ]
     },
@@ -74,19 +74,8 @@
       "id": "wet-wipes",
       "name": "물티슈",
       "seasonNote": "여름철·야외활동 시즌에 수요가 높아지는 카테고리",
-      "leader": "깨끗한나라",
+      "leader": "잘풀리는집",
       "products": [
-        {
-          "brand": "깨끗한나라",
-          "keywords": [
-            "깨끗한나라 물티슈",
-            "깨끗한나라 아기물티슈"
-          ],
-          "last3Avg": 84.27,
-          "prev3Avg": 87.9,
-          "momentum": -4.13,
-          "score": 62.56
-        },
         {
           "brand": "잘풀리는집",
           "keywords": [
@@ -99,15 +88,26 @@
           "score": 52.36
         },
         {
+          "brand": "깨끗한나라",
+          "keywords": [
+            "깨끗한나라 물티슈",
+            "깨끗한나라 아기물티슈"
+          ],
+          "last3Avg": 60.69,
+          "prev3Avg": 79.15,
+          "momentum": -23.32,
+          "score": 48.41
+        },
+        {
           "brand": "크리넥스",
           "keywords": [
             "크리넥스 물티슈",
             "크리넥스 아기물티슈"
           ],
-          "last3Avg": 58.82,
-          "prev3Avg": 54.48,
-          "momentum": 7.97,
-          "score": 49.28
+          "last3Avg": 41.55,
+          "prev3Avg": 55.98,
+          "momentum": -25.78,
+          "score": 36.93
         },
         {
           "brand": "커클랜드",
@@ -135,10 +135,10 @@
             "코스트코 키친타월",
             "커클랜드 키친타올"
           ],
-          "last3Avg": 46.04,
-          "prev3Avg": 54.3,
-          "momentum": -15.21,
-          "score": 27.62
+          "last3Avg": 33.1,
+          "prev3Avg": 49.36,
+          "momentum": -32.94,
+          "score": 19.86
         },
         {
           "brand": "크리넥스",
@@ -146,10 +146,10 @@
             "크리넥스 키친타월",
             "크리넥스 키친타올"
           ],
-          "last3Avg": 25.45,
-          "prev3Avg": 24.73,
-          "momentum": 2.91,
-          "score": 16.0
+          "last3Avg": 17.79,
+          "prev3Avg": 25.2,
+          "momentum": -29.4,
+          "score": 10.67
         },
         {
           "brand": "깨끗한나라",
@@ -157,10 +157,10 @@
             "깨끗한나라 키친타월",
             "깨끗한나라 키친타올"
           ],
-          "last3Avg": 11.63,
-          "prev3Avg": 9.92,
-          "momentum": 17.24,
-          "score": 11.29
+          "last3Avg": 8.55,
+          "prev3Avg": 9.94,
+          "momentum": -13.98,
+          "score": 5.13
         },
         {
           "brand": "잘풀리는집",
@@ -168,10 +168,10 @@
             "잘풀리는집 키친타월",
             "잘풀리는집 키친타올"
           ],
-          "last3Avg": 6.6,
-          "prev3Avg": 6.37,
-          "momentum": 3.61,
-          "score": 4.86
+          "last3Avg": 4.36,
+          "prev3Avg": 6.57,
+          "momentum": -33.64,
+          "score": 2.62
         }
       ]
     },
@@ -187,10 +187,10 @@
             "크리넥스 미용티슈",
             "크리넥스 각티슈"
           ],
-          "last3Avg": 87.53,
-          "prev3Avg": 82.9,
-          "momentum": 5.59,
-          "score": 53.92
+          "last3Avg": 60.78,
+          "prev3Avg": 88.04,
+          "momentum": -30.96,
+          "score": 36.47
         },
         {
           "brand": "잘풀리는집",
@@ -198,21 +198,10 @@
             "잘풀리는집 미용티슈",
             "잘풀리는집 각티슈"
           ],
-          "last3Avg": 12.7,
-          "prev3Avg": 13.03,
-          "momentum": -2.53,
-          "score": 7.62
-        },
-        {
-          "brand": "깨끗한나라",
-          "keywords": [
-            "깨끗한나라 미용티슈",
-            "깨끗한나라 각티슈"
-          ],
-          "last3Avg": 4.01,
-          "prev3Avg": 3.74,
-          "momentum": 7.22,
-          "score": 4.21
+          "last3Avg": 9.51,
+          "prev3Avg": 12.61,
+          "momentum": -24.58,
+          "score": 5.71
         },
         {
           "brand": "커클랜드",
@@ -224,15 +213,26 @@
           "prev3Avg": 0.07,
           "momentum": 10.0,
           "score": 2.6
+        },
+        {
+          "brand": "깨끗한나라",
+          "keywords": [
+            "깨끗한나라 미용티슈",
+            "깨끗한나라 각티슈"
+          ],
+          "last3Avg": 2.84,
+          "prev3Avg": 4.0,
+          "momentum": -29.0,
+          "score": 1.7
         }
       ]
     }
   ],
   "recommendation": {
     "priorityCategory": "물티슈",
-    "priorityBrand": "깨끗한나라",
+    "priorityBrand": "잘풀리는집",
     "priorityMessage": "물티슈 카테고리는 최근 검색 반응이 가장 빠르게 커지는 영역으로, 깨끗한나라가 영업 자원을 먼저 집중해 진열 점유율과 고객 선택률을 확대할 우선 공략 카테고리입니다.",
-    "regionalMessage": "물티슈에서는 깨끗한나라가 이미 반응 우위에 있으므로, 대표 SKU 노출을 유지하면서 2위 브랜드인 잘풀리는집의 추격을 막는 방어형 점유율 확대 전략이 유효합니다.",
+    "regionalMessage": "물티슈에서는 현재 잘풀리는집가 검색 존재감을 선점하고 있어, 깨끗한나라는 비교 진열, 묶음 구성, 핵심 USP 메시지 강화로 고객 선택을 전환해야 합니다. 현재 선도 브랜드와의 점수 차이는 4.0p입니다.",
     "promoMessage": "대리점·농협 채널에서는 물티슈 핵심 SKU를 전면 배치하고, 입수량 행사, 시즌성 묶음 프로모션, 생활밀착형 메시지를 연동해 실제 구매 전환까지 이어지도록 실행하는 것이 효과적입니다."
   }
 }
