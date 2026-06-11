@@ -1,9 +1,9 @@
 {
   "source": "naver-datalab",
-  "generatedAt": "2026-06-10T23:40:52Z",
+  "generatedAt": "2026-06-11T23:44:19Z",
   "dateRange": {
-    "startDate": "2025-06-10",
-    "endDate": "2026-06-10",
+    "startDate": "2025-06-11",
+    "endDate": "2026-06-11",
     "timeUnit": "month"
   },
   "brands": [
@@ -26,10 +26,10 @@
             "크리넥스 휴지",
             "크리넥스 두루마리휴지"
           ],
-          "last3Avg": 51.45,
+          "last3Avg": 52.19,
           "prev3Avg": 84.93,
-          "momentum": -39.42,
-          "score": 30.87
+          "momentum": -38.55,
+          "score": 31.31
         },
         {
           "brand": "커클랜드",
@@ -39,10 +39,10 @@
             "코스트코 화장지",
             "커클랜드 두루마리휴지"
           ],
-          "last3Avg": 33.72,
+          "last3Avg": 34.11,
           "prev3Avg": 51.0,
-          "momentum": -33.88,
-          "score": 20.23
+          "momentum": -33.12,
+          "score": 20.47
         },
         {
           "brand": "깨끗한나라",
@@ -51,10 +51,10 @@
             "깨끗한나라 휴지",
             "깨끗한나라 두루마리휴지"
           ],
-          "last3Avg": 24.7,
+          "last3Avg": 25.02,
           "prev3Avg": 40.72,
-          "momentum": -39.34,
-          "score": 14.82
+          "momentum": -38.56,
+          "score": 15.01
         },
         {
           "brand": "잘풀리는집",
@@ -63,10 +63,10 @@
             "잘풀리는집 휴지",
             "잘풀리는집 두루마리휴지"
           ],
-          "last3Avg": 3.32,
+          "last3Avg": 3.38,
           "prev3Avg": 6.14,
-          "momentum": -45.93,
-          "score": 1.99
+          "momentum": -44.95,
+          "score": 2.03
         }
       ]
     },
@@ -82,10 +82,10 @@
             "깨끗한나라 물티슈",
             "깨끗한나라 아기물티슈"
           ],
-          "last3Avg": 58.76,
+          "last3Avg": 59.75,
           "prev3Avg": 87.01,
-          "momentum": -32.47,
-          "score": 47.26
+          "momentum": -31.33,
+          "score": 47.85
         },
         {
           "brand": "크리넥스",
@@ -93,10 +93,10 @@
             "크리넥스 물티슈",
             "크리넥스 아기물티슈"
           ],
-          "last3Avg": 42.11,
+          "last3Avg": 42.85,
           "prev3Avg": 58.87,
-          "momentum": -28.47,
-          "score": 37.27
+          "momentum": -27.21,
+          "score": 37.71
         },
         {
           "brand": "커클랜드",
@@ -135,10 +135,10 @@
             "코스트코 키친타월",
             "커클랜드 키친타올"
           ],
-          "last3Avg": 28.74,
+          "last3Avg": 29.16,
           "prev3Avg": 48.15,
-          "momentum": -40.31,
-          "score": 17.24
+          "momentum": -39.44,
+          "score": 17.5
         },
         {
           "brand": "크리넥스",
@@ -146,10 +146,10 @@
             "크리넥스 키친타월",
             "크리넥스 키친타올"
           ],
-          "last3Avg": 17.85,
+          "last3Avg": 18.14,
           "prev3Avg": 26.43,
-          "momentum": -32.46,
-          "score": 10.71
+          "momentum": -31.37,
+          "score": 10.88
         },
         {
           "brand": "깨끗한나라",
@@ -157,10 +157,10 @@
             "깨끗한나라 키친타월",
             "깨끗한나라 키친타올"
           ],
-          "last3Avg": 7.15,
+          "last3Avg": 7.23,
           "prev3Avg": 11.72,
-          "momentum": -38.99,
-          "score": 4.29
+          "momentum": -38.31,
+          "score": 4.34
         },
         {
           "brand": "잘풀리는집",
@@ -168,10 +168,10 @@
             "잘풀리는집 키친타월",
             "잘풀리는집 키친타올"
           ],
-          "last3Avg": 3.92,
+          "last3Avg": 3.97,
           "prev3Avg": 7.0,
-          "momentum": -44.0,
-          "score": 2.35
+          "momentum": -43.29,
+          "score": 2.38
         }
       ]
     },
@@ -187,10 +187,10 @@
             "커클랜드 미용티슈",
             "커클랜드 티슈"
           ],
-          "last3Avg": 1.81,
+          "last3Avg": 1.84,
           "prev3Avg": 0.14,
-          "momentum": 167.0,
-          "score": 42.84
+          "momentum": 170.0,
+          "score": 43.6
         },
         {
           "brand": "크리넥스",
@@ -198,10 +198,10 @@
             "크리넥스 미용티슈",
             "크리넥스 각티슈"
           ],
-          "last3Avg": 59.51,
+          "last3Avg": 60.31,
           "prev3Avg": 94.32,
-          "momentum": -36.91,
-          "score": 35.71
+          "momentum": -36.06,
+          "score": 36.19
         },
         {
           "brand": "잘풀리는집",
@@ -209,10 +209,10 @@
             "잘풀리는집 미용티슈",
             "잘풀리는집 각티슈"
           ],
-          "last3Avg": 9.45,
+          "last3Avg": 9.58,
           "prev3Avg": 12.71,
-          "momentum": -25.65,
-          "score": 5.67
+          "momentum": -24.63,
+          "score": 5.75
         },
         {
           "brand": "깨끗한나라",
